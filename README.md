@@ -31,7 +31,7 @@ open index.html   # macOS
 
 
 🖼️ UI Preview
-SimonSay snapshot
+![My Image](https://github.com/harpreetkaur7879/SimonSay-Game/blob/main/snapshot.png)
 
 🎮 How to Play
 The game will randomly light up a sequence of buttons.
